@@ -1,0 +1,8 @@
+
+node_modules/
+main.bundle.js
+main.bundle.js.map
+build/
+
+
+.idea
